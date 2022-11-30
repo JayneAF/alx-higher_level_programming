@@ -3,7 +3,6 @@
 ## Description
 The aim of this project is to get started with Javascript, learn all the syntax and its different uses.
 
-![](https://devs.lol/meme/remember-when-you-thought-javascript-is-easy-200)
 
 ## Table of contents
 Files | Description
