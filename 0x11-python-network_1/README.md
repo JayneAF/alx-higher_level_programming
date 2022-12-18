@@ -1,1 +1,1 @@
-Slotions for 0x11-python-network_1
+Solutions for 0x11-python-network_1
